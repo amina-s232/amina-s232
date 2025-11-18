@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/amina">
+  <a href="https://github.com/amina-s232">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full--Stack+Engineer+%7C+Python+&+React;Building+Scalable+Django+Applications;Proficient+in+REST+APIs+&+Database+Design;MySQL+%7C+PostgreSQL+%7C+Tailwind+CSS" />
@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/amina">
+  <a href="https://github.com/amina-s232">
     <img src="https://github-stats-alpha.vercel.app/api?username=amina&theme=solarized-dark&cc=06B6D4&tc=fff&ic=fff&bc=000" width="60%" />
   </a>
 </div>
