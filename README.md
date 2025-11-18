@@ -1,95 +1,88 @@
-<h1 align="center">👋 Hello World! I'm Amina</h1>
-<h3 align="center">⚙️ Full-Stack Engineer | Python & React Specialist</h3>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Amina&fontSize=90&color=gradient&customColorList=7530FF,06B6D4,7530FF&animation=twinkling&fontColor=fff&stroke=fff&strokeWidth=2"/>
+</div>
 
-<p align="center">
-  <a href="[YOUR LINKEDIN PROFILE LINK]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="center">
+  <a href="https://github.com/amina">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full--Stack+Engineer+%7C+Python+&+React;Building+Scalable+Django+Applications;Proficient+in+REST+APIs+&+Database+Design;MySQL+%7C+PostgreSQL+%7C+Tailwind+CSS" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=7530FF&center=true&vCenter=true&width=600&lines=Full--Stack+Engineer+%7C+Python+&+React;Building+Scalable+Django+Applications;Proficient+in+REST+APIs+&+Database+Design;MySQL+%7C+PostgreSQL+%7C+Tailwind+CSS" />
+    <img alt="Typing Animation" src="your-default-image.svg" />
+  </picture>
   </a>
-  <a href="[YOUR TWITTER PROFILE LINK]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/amina">
+    <img src="https://github-stats-alpha.vercel.app/api?username=amina&theme=solarized-dark&cc=06B6D4&tc=fff&ic=fff&bc=000" width="60%" />
   </a>
-  <a href="mailto:[YOUR EMAIL ADDRESS]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+</div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amina&style=for-the-badge&color=7530FF&label=PROFILE+VIEWS"/>
+</div>
 
-## 🎯 About My Work
+<br>
+<br>
 
-I am a passionate **Full-Stack Engineer** specializing in the Python/Django ecosystem and modern React frontend development. My focus is on building robust, scalable, and beautifully designed web applications. I thrive on transforming complex problems into elegant, maintainable code solutions, always with an eye on performance and user experience.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amina&theme=midnight-purple&hide_border=true&border_radius=10&background=45%2C0a0a0a%2C1c1c1c" width="49%" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10&bg_color=45%2C0a0a0a%2C1c1c1c" width="49%" height="200"/>
+</div>
 
--   🔭 I'm currently advancing my skills in **Cloud Deployment** and optimizing **RESTful API** performance.
--   🌱 I'm always exploring the latest features in **Django ORM** and **React Hooks**.
--   💬 Ask me about **Database Design** (MySQL, PostgreSQL) or implementing **Tailwind CSS** for rapid UI development!
+<br>
+<br>
+<br>
 
----
+```python
+# about_amina.py
 
-## 🛠️ My Expert Stack & Tools
-
-This is the core toolkit I use to bring ideas to life.
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=rest-api&logoColor=white"/>
+class SoftwareArchitect:
+    """Amina's Full-Stack Profile Definition"""
     
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    name = "Amina"
+    title = "Python/React Full-Stack Engineer"
+    location = "Global 🌐"
     
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
----
-
-## 📂 Featured Projects Showcase
-
-Here are a few projects that demonstrate my skills across the full stack. Click on the title to explore the code and documentation!
-
-### 1. [Project Name 1: e.g., E-commerce Platform]
-
-> **Description:** A robust full-stack application built with **Django** for the backend, **REST API** endpoints, and a dynamic **React** frontend styled with **Tailwind CSS**. It features user authentication, a cart system, and PostgreSQL integration.
->
-> **Stack Highlight:** `Django` • `React` • `PostgreSQL` • `Tailwind CSS`
->
-> 🚀 **[Access Project Repository Here]([YOUR-PROJECT-LINK-1])**
-
-### 2. [Project Name 2: e.g., Data Visualization Dashboard]
-
-> **Description:** A project focused on data processing using **Python** and visualizing insights on a single-page application built with plain **HTML/CSS/JavaScript**. Data persistence managed via **SQLite**. Excellent showcase of frontend interaction and API consumption.
->
-> **Stack Highlight:** `Python` • `JavaScript` • `HTML/CSS` • `SQLite`
->
-> 🚀 **[Access Project Repository Here]([YOUR-PROJECT-LINK-2])**
-
-### 3. [Project Name 3: e.g., Personal Blog/CMS]
-
-> **Description:** A simplified Content Management System (CMS) powered by **Django** and **MySQL**. It features robust administration, Markdown support, and a clean, responsive design.
->
-> **Stack Highlight:** `Django` • `MySQL` • `SQL`
->
-> 🚀 **[Access Project Repository Here]([YOUR-PROJECT-LINK-3])**
-
----
-
-## 📈 My GitHub Activity (Animated)
-
-<p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpqZDNtcmhkMWFjM3d6bHVkY2J0ZGh4ZGNwczV5NnFlbWdkcnN3biZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/8gXv8g6j3lV0S5g6i0/giphy.gif" width="30px" height="30px" style="float: right; margin-right: 20px;"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=amina&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Amina's GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.vercel.app/?user=amina&theme=buefy&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina&layout=compact&theme=buefy&hide_border=true" alt="Top Languages"/>
-</p>
-
----
+    def get_skills(self):
+        return {
+            "languages": {
+                "primary": ["Python", "JavaScript", "SQL"],
+                "web_standards": ["HTML5", "CSS3"]
+            },
+            
+            "backend": {
+                "frameworks": ["Django", "Django REST Framework"],
+                "databases": ["MySQL", "PostgreSQL (PSQL)", "SQLite"],
+                "apis": ["REST API Design", "Authentication (JWT)"]
+            },
+            
+            "frontend": {
+                "frameworks": ["React", "Redux"],
+                "styling": ["Tailwind CSS", "Styled Components"],
+                "data_fetching": ["Axios", "Fetch API"]
+            },
+            
+            "devops": {
+                "version_control": "Git",
+                "containers": "Docker",
+                "ci_cd": ["GitHub Actions"]
+            }
+        }
+    
+    def current_focus(self):
+        return [
+            "Optimizing database queries and migrations.",
+            "Exploring design patterns in Python.",
+            "Building custom hooks in React."
+        ]
+    
+    def contact_info(self):
+        return {
+            "email": "[YOUR EMAIL ADDRESS]",
+            "linkedin": "[YOUR LINKEDIN PROFILE]",
+            "portfolio": "[YOUR PORTFOLIO LINK]"
+        }
+# print(SoftwareArchitect().get_skills())
