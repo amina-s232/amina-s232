@@ -1,5 +1,3 @@
-
-
 # 👋 Hello! I'm [YOUR NAME]
 
 ### 💻 A Passionate [Your Primary Role, e.g., Full-Stack Developer / Data Scientist / Student]
