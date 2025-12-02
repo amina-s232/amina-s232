@@ -4,7 +4,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amina-shameer32)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aminashameer232@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Kochi%2C%20Kerala-green?style=for-the-badge&logo=google-maps)](https://maps.google.com/?q=Kochi,Kerala)
 
 </div>
 
@@ -12,14 +11,12 @@
 
 I'm a **Python Full Stack Developer** passionate about building robust web applications from the ground up. There's something incredibly satisfying about creating APIs, designing databases, and crafting intuitive user interfaces that work seamlessly together.
 
-Currently working at **Luminar Technolab**, I spend my days turning ideas into functional, responsive web applications. I'm always eager to learn new frameworks and collaborate with developers who share my enthusiasm for clean, efficient code.
 
 ```python
 class Amina:
     def __init__(self):
         self.role = "Python Full Stack Developer"
-        self.location = "Kochi, Kerala, India"
-        self.current_workplace = "Luminar Technolab"
+        self.location = "Banglore, India"
         self.languages = ["Python", "JavaScript", "HTML", "CSS", "SQL"]
         self.learning = "Always something new!"
     
@@ -44,6 +41,7 @@ me.say_hi()
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind-02569B?style=for-the-badge&logo=tailwind&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -64,33 +62,8 @@ me.say_hi()
 - 🎨 Create responsive, user-friendly interfaces with **HTML**, **CSS**, **Bootstrap**, and **JavaScript**
 - 🔐 Implement secure authentication systems using **Django Auth**, **JWT**, and **OAuth**
 
-## 🌟 Featured Projects
 
-### 📝 TODO Application
-A full-featured task management application with authentication and CRUD operations.
 
-**Key Features:**
-- ✅ Complete CRUD functionality (Create, Read, Update, Delete)
-- 🔐 User authentication system (Login, Logout, Register)
-- 📅 Due date tracking and task completion status
-- 🔍 Advanced search and filter capabilities
-- 💾 Persistent data storage using SQLite/JSON
-- 🎨 Responsive UI built with Bootstrap
-
-**Tech Stack:** Django | SQLite | Bootstrap | Django ORM
-
----
-
-### 🎬 Movie Manager
-A comprehensive web application for managing personal movie collections.
-
-**Key Features:**
-- 📋 Add, edit, delete, and view movie records
-- ⚙️ Customized Django admin panel for easy management
-- 📱 Responsive design with Bootstrap
-- 🔄 Version control with Git/GitHub
-
-**Tech Stack:** Django | PostgreSQL | Bootstrap | Git
 
 ## 📊 GitHub Stats
 
@@ -104,28 +77,12 @@ A comprehensive web application for managing personal movie collections.
 
 </div>
 
-## 🎓 Education
 
-**Higher Secondary Education (Science Stream)**  
-Lajanathul Muhammadiya HSS, Alappuzha, Kerala  
-Grade: **94%**
-
-## 💼 Professional Experience
-
-**Python Full Stack Developer** @ Luminar Technolab  
-*December 2024 - Present | Kakkanad, Kerala*
-
-- Developing and maintaining web applications using Python Django and React
-- Building RESTful APIs for robust frontend-backend integration
-- Managing databases with PostgreSQL and MySQL
-- Implementing secure authentication and authorization systems
-- Creating responsive UI components for optimal user experience
 
 ## 🌱 Currently Learning
 
 I believe in continuous learning and staying updated with the latest technologies. Currently exploring:
 - Advanced React patterns and hooks
-- Django optimization techniques
 - Cloud deployment strategies
 - Modern DevOps practices
 
@@ -135,8 +92,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 - 📧 Email: aminashameer232@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/amina-shameer32](https://www.linkedin.com/in/amina-shameer32)
-- 📱 Phone: +91-8075141618
-- 📍 Location: Kochi, Kerala, India
+- 📍 Location: Bangalore, India
 
 ---
 
@@ -146,6 +102,6 @@ I'm always open to interesting conversations and collaboration opportunities!
   
   *"Building the web, one commit at a time"*
   
-  ![Visitor Count](https://profile-counter.glitch.me/amina-s232/count.svg)
+  
 
 </div>
