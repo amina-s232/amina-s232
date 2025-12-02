@@ -231,9 +231,7 @@ const myApproach = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amina-s232&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br/>
 
 ### ⭐ "Building the web, one commit at a time" ⭐
 
