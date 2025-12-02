@@ -24,17 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=amina&style=for-the-badge&color=7530FF&label=PROFILE+VIEWS"/>
 </div>
 
-<br>
-<br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amina&theme=midnight-purple&hide_border=true&border_radius=10&background=45%2C0a0a0a%2C1c1c1c" width="49%" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10&bg_color=45%2C0a0a0a%2C1c1c1c" width="49%" height="200"/>
-</div>
-
-<br>
-<br>
-<br>
 
 ```python
 # about_amina.py
