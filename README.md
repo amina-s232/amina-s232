@@ -149,60 +149,6 @@ dev.say_hi()
 
 </div>
 
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 📝 [Task Management System](https://github.com/amina-s232)
-
-**Advanced TODO Application with Authentication**
-
-```javascript
-Tech: Django | React | PostgreSQL
-```
-
-- ✅ Full CRUD operations
-- 🔐 Secure user authentication (JWT)
-- 📅 Due date tracking & reminders
-- 🔍 Advanced search & filtering
-- 📱 Responsive design
-- 💾 Persistent data storage
-
-**[View Project →](https://github.com/amina-s232)**
-
-</td>
-<td width="50%">
-
-### 🎬 [Movie Collection Manager](https://github.com/amina-s232)
-
-**Comprehensive Media Management Platform**
-
-```javascript
-Tech: Django | Bootstrap | MySQL
-```
-
-- 📋 Complete CRUD functionality
-- ⚙️ Custom Django admin panel
-- 🎨 Modern, responsive UI
-- 🔄 Version controlled with Git
-- 📊 Analytics dashboard
-- 🌐 RESTful API endpoints
-
-**[View Project →](https://github.com/amina-s232)**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🌱 Current Focus & Learning
 
@@ -237,14 +183,14 @@ mindmap
 
 ### 🎯 Mastering
 - Advanced React patterns
-- Redux & Context API
+
 - TypeScript integration
 
 </td>
 <td width="33%">
 
 ### 🔥 Exploring
-- Docker & Containerization
+
 - AWS & Cloud Services
 - GraphQL APIs
 
@@ -253,7 +199,6 @@ mindmap
 
 ### 🚀 Planning
 - Microservices architecture
-- Mobile app development
 - Open source contributions
 
 </td>
@@ -315,6 +260,6 @@ const myApproach = {
 
 <br/>
 
-**© 2024 Amina Shameer. Crafted with 💜 and lots of ☕**
+**© 2025 Amina Shameer. Crafted with 💜 and lots of ☕**
 
 </div>
