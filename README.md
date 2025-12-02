@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-shameer32)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amina-s232)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminashameer232@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -126,8 +125,7 @@ dev.say_hi()
 
 </div>
 
-
-
+---
 
 ## 🌱 Current Focus & Learning
 
@@ -162,14 +160,12 @@ mindmap
 
 ### 🎯 Mastering
 - Advanced React patterns
-
 - TypeScript integration
 
 </td>
 <td width="33%">
 
 ### 🔥 Exploring
-
 - AWS & Cloud Services
 - GraphQL APIs
 
@@ -230,8 +226,6 @@ const myApproach = {
 ### 🎯 Open to Opportunities | 💼 Available for Freelance Projects | 🤝 Open Source Contributor
 
 <br/>
-
-
 
 ### ⭐ "Building the web, one commit at a time" ⭐
 
