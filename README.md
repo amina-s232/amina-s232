@@ -5,10 +5,11 @@ Open to remote roles and freelance work.
 
 ## Skills
 
-- **Backend:** Python, Django, Django REST Framework, JWT authentication
+- **Backend:** Python, Django, Django REST Framework ,Express.js ,JWT authentication
 - **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap
-- **Databases:** PostgreSQL, MySQL, SQLite
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDb
 - **Tools:** Git, GitHub, Postman
+- **Languages:** C, JavaScript, TypeScript, HTML/CSS, SQL
 
 ## Projects
 
@@ -18,4 +19,4 @@ Open to remote roles and freelance work.
 ## Contact
 
 - LinkedIn: [amina-shameer32](https://www.linkedin.com/in/amina-shameer32)
-- Email: your-email@example.com
+- Email: aminashameer232@gmail.com
