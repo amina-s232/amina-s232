@@ -19,4 +19,4 @@ Open to remote roles and freelance work.
 ## Contact
 
 - LinkedIn: [amina-shameer32](https://www.linkedin.com/in/amina-shameer32)
-- Email: aminashameer232@gmail.com, iamamin936@gmail.com
+- Email: aminashameer232@gmail.com, iamamin936@gmail.com ,
